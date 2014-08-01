@@ -54,4 +54,4 @@ modules/public/
 modules/views/
 /public/build/
 
-config/env/*.js
+config/env/development.js
